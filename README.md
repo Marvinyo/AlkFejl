@@ -14,7 +14,7 @@ A webalkalmazás egyéni és közösségi (család, osztály, munkacsoport, műs
   - Regisztráció
     
 ### Regisztrált felhasználó
-  Regisztrált és bejelentkezett felhasználóként a következő adatok/funkciók érhetőek el (az vendég felhasználóén túl):
+  Regisztrált és bejelentkezett felhasználóként a következő adatok/funkciók érhetőek el (a vendég felhasználóén túl):
   
   - Profil szerkesztése
   - Közösség műveletei, közösség létrehozása, elhagyása, közösséghez csatlakozás
